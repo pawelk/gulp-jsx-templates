@@ -1,0 +1,10 @@
+{ 
+	"pages" : {
+		"index" : {
+			"title" : "Index page"
+		},
+		"about" : {
+			"title" : "About page"
+		}
+	}
+}

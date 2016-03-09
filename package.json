@@ -1,0 +1,29 @@
+{
+  "name": "gulp-jsx-templates",
+  "version": "0.0.1",
+  "description": "Compile React's JSX to static HTML markup",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawelk/gulp-jsx-templates.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsx",
+    "react",
+    "template",
+    "static"
+  ],
+  "author": "Paweł Knapik",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-plugin-transform-react-jsx": "^6.6.5",
+    "gulp-util": "^3.0.7",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "through2": "^2.0.1"
+  }
+}
