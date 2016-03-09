@@ -7,16 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-      "templates",
-      "jsx",
-	  "react",
-	  "static",
-      "example"
+    "templates",
+    "jsx",
+    "react",
+    "static",
+    "example"
   ],
   "author": "Paweł Knapik",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
+    "gulp-html-beautify": "^1.0.1",
     "gulp-rename": "^1.2.2"
   }
 }
